@@ -250,7 +250,7 @@ This project is provided for educational and research purposes. Commercial use r
 
 ---
 
-If you use this code, methodology, or dataset in your research, please cite the following work to acknowledge our contribution. This ensures proper credit and helps the community track the impact of the study:  
+If you use this code, methodology, or dataset in your research, please cite the following work:  
 
 **Shaswat Pathak, Aayush Luitel, Amjad Ali Pasha, D. Siva Krishna Reddy, Salem Algarni, Talal Alqahtani, Kashif Irshad.** "ML–augmented CFD–framework for heat-sink and fan-speed optimization in gaming workstation." *International Journal of Mechanical Sciences*, 2025, 110752. [https://doi.org/10.1016/j.ijmecsci.2025.110752](https://doi.org/10.1016/j.ijmecsci.2025.110752)
 
