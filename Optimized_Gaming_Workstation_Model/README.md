@@ -216,3 +216,27 @@ For model-specific questions:
 ## License and Usage
 
 This thermal model is provided for educational and research purposes. Commercial use requires appropriate ANSYS licensing. Users are responsible for validating results against experimental data for their specific applications.
+
+## Citation
+
+---
+
+If you use this code, methodology, or dataset in your research, please cite the following work:  
+
+**Shaswat Pathak, Aayush Luitel, Amjad Ali Pasha, D. Siva Krishna Reddy, Salem Algarni, Talal Alqahtani, Kashif Irshad.** "ML–augmented CFD–framework for heat-sink and fan-speed optimization in gaming workstation." *International Journal of Mechanical Sciences*, 2025, 110752. [https://doi.org/10.1016/j.ijmecsci.2025.110752](https://doi.org/10.1016/j.ijmecsci.2025.110752)
+
+---
+
+**BibTeX format for citation:**  
+
+```bibtex
+@article{PATHAK2025110752,
+  title = {ML–augmented CFD–framework for heat-sink and fan-speed optimization in gaming workstation},
+  journal = {International Journal of Mechanical Sciences},
+  pages = {110752},
+  year = {2025},
+  issn = {0020-7403},
+  doi = {https://doi.org/10.1016/j.ijmecsci.2025.110752},
+  url = {https://www.sciencedirect.com/science/article/pii/S0020740325008343},
+  author = {Shaswat Pathak and Aayush Luitel and Amjad Ali Pasha and D. Siva Krishna Reddy and Salem Algarni and Talal Alqahtani and Kashif Irshad}
+}
