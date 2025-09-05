@@ -244,7 +244,12 @@ Contributions are welcome! Areas for enhancement include:
 
 ## License
 
-This project is provided for educational and research purposes. Commercial use requires appropriate software licensing for ANSYS products. Users are responsible for validating results against experimental data for their specific applications.
+This project is released under the [MIT License](LICENSE).  
+It is provided primarily for **educational and research purposes**. Users are responsible for validating results against experimental data for their specific applications.  
+
+ **Commercial use requires appropriate software licensing for ANSYS products.**  
+
+If you use this code or framework in your research, **please provide proper citation** to acknowledge the author and repository. Citation helps support further development and ensures credit is given to the original work.
 
 ## Citation
 
